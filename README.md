@@ -18,12 +18,11 @@ Make sure all the dependencies used in the notebook are installed in the local m
 
 ## Quick result
 ### Feature Distribution
-![Alt text](feature_distribution.png?raw=true "Title")
+
 
 ### ROC curves of logistic regression model with features of degree 1, 2 and 3.
-![Alt text](ROC.png?raw=true "Title")
+
 
 ### Comparision of various classifiers.
-![Alt text](classifier.png?raw=true "Title")
 
 ## For detailed information regarding the project, please refer to the report.
